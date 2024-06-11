@@ -1,3 +1,7 @@
+try to use:
+https://github.com/bokuweb/react-rnd?tab=readme-ov-file
+
+
 # office-map
 
 > Get a graphical react component that can create an office map to control key equipment information.
